@@ -1,0 +1,147 @@
+{
+  "diabetes": {
+    "breakfast": [
+      "Vegetable Oats",
+      "Besan Chilla",
+      "Greek Yogurt with Berries",
+      "Moong Dal Cheela",
+      "Overnight Chia Pudding",
+      "Vegetable Poha",
+      "Egg White Scramble with Spinach"
+    ],
+    "lunch": [
+      "Dal + Roti + Salad",
+      "Quinoa & Chickpea Bowl",
+      "Grilled Chicken with Steamed Greens",
+      "Brown Rice + Rajma",
+      "Lentil Soup with Whole-Grain Bread",
+      "Millet Khichdi with Curd"
+    ],
+    "dinner": [
+      "Paneer + Vegetables",
+      "Vegetable Soup + Roti",
+      "Grilled Fish with Broccoli",
+      "Stir-Fried Tofu & Vegetables",
+      "Vegetable Curry with Cauliflower Rice",
+      "Mixed Vegetable Stew"
+    ]
+  },
+  "hypertension": {
+    "breakfast": [
+      "Unsalted Oats with Banana",
+      "Vegetable Upma (low salt)",
+      "Whole-Grain Toast with Avocado",
+      "Fruit & Nut Smoothie",
+      "Herbed Egg Muffins",
+      "Millet Porridge"
+    ],
+    "lunch": [
+      "Herb-Roasted Vegetable Bowl",
+      "Lentil Salad with Lemon",
+      "Grilled Chicken with Quinoa",
+      "Vegetable Soup with Barley",
+      "Brown Rice + Low-Sodium Dal",
+      "Mediterranean Chickpea Bowl"
+    ],
+    "dinner": [
+      "Baked Fish with Herbs",
+      "Stir-Fried Vegetables (low sodium)",
+      "Vegetable & Bean Stew",
+      "Grilled Paneer with Garlic Greens",
+      "Roasted Vegetable Medley",
+      "Vegetable Soup + Whole-Grain Roti"
+    ]
+  },
+  "cholesterol": {
+    "breakfast": [
+      "Oats with Flaxseed",
+      "Vegetable Egg White Omelette",
+      "Whole-Grain Muesli with Fruit",
+      "Besan Chilla with Vegetables",
+      "Apple & Walnut Porridge"
+    ],
+    "lunch": [
+      "Grilled Chicken with Brown Rice",
+      "Chickpea & Vegetable Salad",
+      "Barley Khichdi with Curd",
+      "Fiber-Rich Bean Bowl",
+      "Quinoa Tabbouleh"
+    ],
+    "dinner": [
+      "Baked Salmon with Greens",
+      "Vegetable Stir-Fry with Olive Oil",
+      "Lentil Soup + Whole-Grain Bread",
+      "Tofu & Vegetable Curry",
+      "Roasted Vegetable Bowl with Nuts"
+    ]
+  },
+  "pcos": {
+    "breakfast": [
+      "Protein Smoothie Bowl",
+      "Vegetable Oats",
+      "Moong Dal Chilla",
+      "Greek Yogurt with Seeds",
+      "Egg & Vegetable Wrap"
+    ],
+    "lunch": [
+      "Quinoa & Chickpea Bowl",
+      "Grilled Chicken with Salad",
+      "Millet Khichdi",
+      "Paneer & Vegetable Bowl",
+      "Lentil Soup with Brown Rice"
+    ],
+    "dinner": [
+      "Stir-Fried Tofu & Vegetables",
+      "Grilled Fish with Steamed Greens",
+      "Vegetable Curry with Cauliflower Rice",
+      "Paneer + Vegetables",
+      "Mixed Bean Stew"
+    ]
+  },
+  "heart": {
+    "breakfast": [
+      "Overnight Oats with Berries",
+      "Vegetable Upma",
+      "Walnut & Flax Smoothie",
+      "Whole-Grain Toast with Avocado",
+      "Egg White Scramble"
+    ],
+    "lunch": [
+      "Mediterranean Chickpea Bowl",
+      "Grilled Fish with Quinoa",
+      "Lentil Soup with Vegetables",
+      "Brown Rice + Dal",
+      "Herb-Roasted Vegetable Bowl"
+    ],
+    "dinner": [
+      "Baked Fish with Herbs",
+      "Vegetable & Bean Stew",
+      "Grilled Vegetables with Olive Oil",
+      "Tofu Stir-Fry",
+      "Roasted Vegetable Medley"
+    ]
+  },
+  "celiac": {
+    "breakfast": [
+      "Vegetable Poha (gluten-free)",
+      "Rice Flour Chilla",
+      "Fruit & Nut Smoothie",
+      "Egg White Scramble with Spinach",
+      "Quinoa Porridge"
+    ],
+    "lunch": [
+      "Rice + Dal + Salad",
+      "Grilled Chicken with Quinoa",
+      "Millet Khichdi with Curd",
+      "Chickpea & Vegetable Bowl",
+      "Buckwheat Salad"
+    ],
+    "dinner": [
+      "Paneer + Vegetables (gluten-free)",
+      "Grilled Fish with Steamed Vegetables",
+      "Vegetable Curry with Rice",
+      "Stir-Fried Tofu & Vegetables",
+      "Vegetable Soup with Rice Noodles"
+    ]
+  }
+}
